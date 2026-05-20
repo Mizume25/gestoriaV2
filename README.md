@@ -10,6 +10,9 @@ filter, find, map y sort, y donde empecé a modularizar el código aplicando los
 principios DRY (Don't Repeat Yourself) y SRP (Single Responsibility Principle),
 separando responsabilidades en archivos JavaScript con tareas específicas (service, api,ui/ux, main etc...).
 
+
+![Login](public/Pagina_inicial.png)
+
 Con esa base, desarrollé una primera versión de la gestoría en local con JSX,
 que quedó incompleta al decidir rehacer el proyecto desde cero con TypeScript
 y una arquitectura más sólida. De esa decisión nació gestoriaV2.
